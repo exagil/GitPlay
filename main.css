@@ -1,0 +1,17 @@
+body {
+    width: 100vw; height: 100vh;
+    padding:  0px; margin: 0px;
+    background: url("one.jpg");
+    background-size: cover;
+}
+
+#hello {
+    font-size: 12vw;
+    text-align: center;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    position: absolute;
+    width: 100vw;
+    top: 40%;
+    transform: translateY(-50%);
+}
